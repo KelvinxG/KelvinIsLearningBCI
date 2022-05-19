@@ -28,3 +28,7 @@ openbci : https://docs.openbci.com/Deprecated/Python/
 
 BciPy: Brain-Computer interface Software in Python 
 url : https://arxiv.org/ftp/arxiv/papers/2002/2002.06642.pdf
+
+*Datasets
+
+github repo: https://github.com/meagmohit/EEG-Datasets
